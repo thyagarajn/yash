@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-04T19:03:49 IST" name="Default suite" finished-at="2023-09-04T19:03:49 IST" duration-ms="167">
+    <groups>
+    </groups>
+    <test started-at="2023-09-04T19:03:49 IST" name="Default test" finished-at="2023-09-04T19:03:49 IST" duration-ms="167">
+      <class name="TestNG.Achivers_Test">
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="login" finished-at="2023-09-04T19:03:49 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="cretecustomer()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="cretecustomer" finished-at="2023-09-04T19:03:49 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cretecustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="logout" finished-at="2023-09-04T19:03:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="login" finished-at="2023-09-04T19:03:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deletecretecustomer()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="deletecretecustomer" finished-at="2023-09-04T19:03:49 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecretecustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="logout" finished-at="2023-09-04T19:03:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="login" finished-at="2023-09-04T19:03:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="modifycustomer()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="modifycustomer" finished-at="2023-09-04T19:03:49 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifycustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNG.Achivers_Test@437da279]" started-at="2023-09-04T19:03:49 IST" name="logout" finished-at="2023-09-04T19:03:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- TestNG.Achivers_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
